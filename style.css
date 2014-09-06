@@ -1,0 +1,33 @@
+.fleft {float:left}
+.fright {float:right}
+.fclear {clear:both}
+.fcenter {float:none;text-align:center}
+body {background:url(images/speaker.gif);margin:0;padding:0;font-family:Arial, Helvetica, sans-serif;font-size:14px;color:#fff}
+#wrapper {width:960px;margin:0 auto;background:url(images/background.png)  top center repeat-y}
+#banner {background:url(images/header-img.jpeg) top center no-repeat;width:960px;height:406px}
+#logo {float:left;clear:both;margin-top:5px;margin-left:30px}
+#menu {float:right;clear:none;background:url(images/menu.png) top right no-repeat;width:289px;height:246px;margin-top:12px}
+#menu ul {list-style:none;margin:0;padding:0}
+#menu ul li {margin:0;padding:0;padding-top:12px}
+#menu ul li a {display:block;text-decoration:none;font-size:18px;text-align:left;cursor:pointer;margin-left:60px;color:#000;font-weight:bolder;width:150px;padding-top:10px;line-height:22px}
+#content {width:860px;margin-left:50px;margin-right:50px;margin-top:-50px}
+#top-download {float:left;clear:none}
+#topDownload-title {background:url(images/top_downloads_header.png) top left no-repeat;width:196px;height:20px;font-size:13px;padding-left:10px}
+#topDownload-body {width:174px;background:#000 url(images/top-download-bg.png) top left repeat-x;border:1px solid #ba1b8c;margin-top:4px;padding:10px}
+.bullet-txt {background:url(images/bullet.png) top left no-repeat;width:154px;height:17px;font-size:13px;padding-left:20px;margin-bottom:10px}
+.learn-more {text-align:right;font-size:10px;text-decoration:underline;margin-top:5px;margin-bottom:20px;margin-right:10px}
+.learn-more a {color:#fff}
+.topDownload-txt {font-size:12px}
+.inner_copy {border:0;color:#f00;float:left;width:50% !important;margin:-100% 0 0 0;overflow:hidden;line-height:0;padding:0;font-size:11px}
+#release {float:left;clear:none;width:371px;margin-left:25px}
+#released-title {background:url(images/released-header.png) top center no-repeat;width:339px;height:34px;font-size:18px;color:#ba1b8b;font-weight:bolder;padding-left:30px;padding-top:3px}
+#released-body {background:#000;border:1px solid #8d898f;margin-top:2px;padding:10px;width:350px}
+.released-title2 {font-size:16px;margin-bottom:10px}
+.more-btn {text-align:right;margin-top:10px;margin-bottom:10px}
+#news {float:left;clear:none;margin-left:25px}
+#music-title {background:url(images/News-header.png) top left no-repeat;border:1px solid #360c2a;width:195px;height:20px;font-size:13px;padding-left:10px}
+#news-body {width:185px;background:#000 url(images/news-bg.png) top left repeat-x;border:1px solid #360c2a;margin-top:4px;padding:10px}
+.news-title2 {font-size:13px;text-decoration:underline;margin-bottom:10px}
+#footer {background:url(images/footer.jpg) top center no-repeat;width:960px;height:56px;margin:0 auto;font-size:11px;color:#bd1a8d;padding-top:40px}
+#footer div {padding:0 80px 0 40px}
+a {color:#36C5F4}
